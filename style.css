@@ -22,13 +22,14 @@
 .nav-links ul{
     margin-right: 50px;
     display: inline;
-    font-family: #ffffff;
+    
 }
 
 .nav-links ul li{
+    float: right;
     list-style: none;
-    display: inline-block;
-    padding: 8px 25px;
+    display: inlin;
+    padding: 20px 30px;
     
 }
 
